@@ -1,2 +1,2 @@
-# Predicting-Hanoi-housing-price-LR-
+# Predicting-Hanoi-housing-price-LR
 ml_project
